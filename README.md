@@ -8,7 +8,7 @@ The [Fronend or client-chat-app](https://github.com/Berihugebre/Client-chat-app)
 ## Installation
 
 ```bash
-https://github.com/Berihugebre/server-chat-app.git
+git clone https://github.com/Berihugebre/server-chat-app.git
 cd server-chat-app
 npm install
 npm start
